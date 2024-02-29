@@ -19,7 +19,7 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/your_username/telegram-bot-catalog.git
+    git clone https://github.com/lavvenn/bot_catalog.git
     ```
 
 2. Установите зависимости:
@@ -31,7 +31,7 @@
 3. Запустите бота:
 
     ```bash
-    python bot.py
+    python run.py
     ```
 
 ## Как использовать
